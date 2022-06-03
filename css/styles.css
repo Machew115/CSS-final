@@ -1,0 +1,119 @@
+
+header {
+    width: 100%;
+}
+ul.nav-bar {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 6vh;
+    background-color: grey;
+}
+li a {
+    color: white;
+    text-decoration: none;
+}
+main {
+    width: 100%;
+    height: auto;
+}
+section.flagship {
+    width: 100%;
+    margin: 10px;
+}
+.flagship img {
+    display: block;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    }
+section.Iphone-SE {
+    width: 100%;
+    margin: 0px;
+}
+.Iphone-SE img {
+    display: block;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+section.pad-air {
+    width: 100%;
+    margin: 0%;
+    background-color: black;
+}
+img.ipad-1 {
+    display: inline;
+    width: 50%;
+    height: 60vh;
+     margin-right: auto;
+}
+img.ipad-2 {
+    display: inline;
+    width: 45%;
+}
+section.wwdc {
+    width: 100%;
+    margin: 0px;
+}
+img.wwdc-1 {
+    display: inline;
+    width: 50%;
+    height: 60vh;
+    margin-right: auto;
+}
+img.iwatch {
+    display: inline;
+    width: 49.5%;
+    height: auto;
+    margin-left: auto;
+}
+section.lastrow {
+    width: 100%;
+    margin: 0%;
+}
+img.applecard {
+    display: inline;
+    width: 50%;
+    
+    margin-right: auto;
+}
+img.imac {
+    display: inline;
+    width: 49.7%;
+}
+footer{
+    display: block;
+    margin: 0 10%;
+}
+p.footer-content {
+    text-align: center;
+    color: gray;
+}
+ul.footer-bar {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 6vh;
+    background-color:transparent;
+}
+.footer-bar a {
+    color: gray;
+}
+
+
+
+
+
